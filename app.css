@@ -1,0 +1,18 @@
+.Counter-center {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+}
+
+.display{
+    margin-top: 2rem;
+}
+
+.buttons{
+    margin-top: 2rem;
+}
+.btn{
+    border-width: 3px;
+}
